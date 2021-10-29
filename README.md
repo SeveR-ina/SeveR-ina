@@ -9,6 +9,8 @@ MY CODE:
 - My JavaRush solved tasks (reading/writing files, multithreading, etc) - https://github.com/SeveR-ina/JavaRushTasks
 - My Web Selenium tests - https://github.com/SeveR-ina/WebSeleniumTests
 
+In Dec, 2019 I created an idea of the mobile app in the dating category. It's called Jivys: https://www.jivys.com/. This app gives your an opportunity to share your interests and goals with different people around the world and find those people who likes the same things. You see these profiles, like them, chat with people. So after creating an idea, I drew prototypes for every mobile screen and also for web-site pages, I found designers, remote native developers and tested many builds. 
+
 [![](https://jitpack.io/v/org.bitbucket.SeveR-ina/jivys-backend2.svg)](https://jitpack.io/#org.bitbucket.SeveR-ina/jivys-backend2)
 <!---
 SeveR-ina/SeveR-ina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
