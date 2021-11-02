@@ -7,6 +7,7 @@
 MY CODE:
 - My Spring project - https://github.com/SeveR-ina/springProject
 - My JavaRush solved tasks (reading/writing files, multithreading, etc) - https://github.com/SeveR-ina/JavaRushTasks
+- My Test task solution nov, 2021 (WebSelenium + TestNG + Maven) - https://github.com/SeveR-ina/TestTaskAutomationPractice
 - My old 2016-2018 Web Selenium tests - https://github.com/SeveR-ina/WebSeleniumTests
 
 In Dec, 2019 I created an idea of the mobile app in the dating category. It's called Jivys: https://www.jivys.com/. This app gives your an opportunity to share your interests and goals with different people around the world and find those people who likes the same things. You see these profiles, like them, chat with people. So after creating an idea, I drew prototypes for every mobile screen and also for web-site pages, I found designers, remote native developers and tested many builds. 
