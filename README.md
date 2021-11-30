@@ -5,8 +5,8 @@
 - My linkdin acc: https://www.linkedin.com/in/regina-chepkunova-03461684/
 
 MY CODE:
-- My Test task solution nov, 2021 (WebSelenium + TestNG + Maven) for https://sperasoft.com/ - https://github.com/SeveR-ina/TestTaskAutomationPractice
-- My Test task solution nov, 2021 (WebSelenium + TestNG + Maven) for https://www.mirapolis.ru/ - https://github.com/SeveR-ina/Mirapolis
+- My Test task solution nov, 2021 (WebSelenium + TestNG + Maven) (1) - https://github.com/SeveR-ina/TestTaskAutomationPractice
+- My Test task solution nov, 2021 (WebSelenium + TestNG + Maven) (2) - https://github.com/SeveR-ina/Mirapolis
 - My old 2016-2018 Web Selenium tests - https://github.com/SeveR-ina/WebSeleniumTests
 Java EE:
 - My Spring project - https://github.com/SeveR-ina/springProject
