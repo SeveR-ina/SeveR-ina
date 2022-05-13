@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SeveR-ina, my name is Regina, i'm 29, from Kazan, Russia
+- 👋 Hi, I’m @SeveR-ina, my name is Regina, i'm 29, from Kazan, Russia and now I live in Berlin, Germany. 
 - 👀 I’m interested in reading books, knitting, travelling, studying a computer science
 - 🌱 I’m currently learning spring
-- 📫 How to reach me - tg: reg7na https://t.me/reg7na or insta: https://www.instagram.com/reg7.na/
+- 📫 How to reach me - tg: reg7na https://t.me/reg7na or insta: https://www.instagram.com/re7i.na/
 - My linkdin acc: https://www.linkedin.com/in/regina-chepkunova-03461684/
 
 MY CODE:
