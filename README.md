@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading books, knitting, travelling, studying a computer science
 - 🌱 I’m currently learning spring
 - 📫 How to reach me - tg: reg7na https://t.me/reg7na or insta: https://www.instagram.com/re7i.na/
-- My linkdin acc: https://www.linkedin.com/in/regina-chepkunova-03461684/
+- My linkdin acc: [https://www.linkedin.com/in/regina-chepkunova-03461684/](https://www.linkedin.com/in/regina-c-03461684/)
 
 MY CODE:
 - My Test task solution nov, 2021 (WebSelenium + TestNG + Maven) (1) - https://github.com/SeveR-ina/TestTaskAutomationPractice
