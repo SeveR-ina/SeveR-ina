@@ -3,11 +3,14 @@
 - 📫 How to reach me - tg: reg7na https://t.me/reg7na or insta: https://www.instagram.com/re7i.na/
 - My linkdin acc: https://www.linkedin.com/in/regina-c-03461684/?locale=en_US
 
-MY CODE:
-- My Test task solution #1, jun, 2022 (Java + WebSelenium + TestNG + Maven) - https://github.com/SeveR-ina/friday-test-task
-- My Test task solution #2, nov, 2021 (Java + WebSelenium + TestNG + Maven) - https://github.com/SeveR-ina/TestTaskAutomationPractice
-- My Test task solution #3, nov, 2021 (Java + WebSelenium + TestNG + Maven) - https://github.com/SeveR-ina/Mirapolis
+MY TEST AUTOMATION:
+- My Test task solution #1, jun, 2022 (Java + Selenium + TestNG + Maven + Allure) - https://github.com/SeveR-ina/rakuten-test-task
+- My Test task solution #2, jun, 2022 (Java + Selenium + TestNG + Maven + Allure) - https://github.com/SeveR-ina/friday-test-task
+- My Test task solution #3, nov, 2021 (Java + Selenium + TestNG + Maven) - https://github.com/SeveR-ina/TestTaskAutomationPractice
+- My Test task solution #4, nov, 2021 (Java + Selenium + TestNG + Maven) - https://github.com/SeveR-ina/Mirapolis
 - My old 2016-2018 Web Selenium tests - https://github.com/SeveR-ina/WebSeleniumTests
+
+
 Java EE:
 - My Spring project - https://github.com/SeveR-ina/springProject
 - My JavaRush solved tasks (reading/writing files, multithreading, etc) - https://github.com/SeveR-ina/JavaRushTasks
