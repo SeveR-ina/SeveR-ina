@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeveR-ina, my name is Regina, I'm 30. I live in Berlin, Germany. 
 - 👀 I’m interested in reading books, knitting, travelling, studying a computer science.
 - 📫 How to reach me - tg: reg7na https://t.me/reg7na or insta: https://www.instagram.com/re7i.na/
-- My linkdin acc: https://www.linkedin.com/in/regina-c-03461684/?locale=en_US
+- My linkdin acc: https://www.linkedin.com/in/reg7na/
 
 MY TEST AUTOMATION:
 - My Test task solution #1, jun, 2022 (Java + Selenium + TestNG + Maven + Allure) - https://github.com/SeveR-ina/rakuten-test-task
