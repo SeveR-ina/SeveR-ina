@@ -6,7 +6,6 @@
 MY TEST AUTOMATION:
 - My Test task solution #1, jun, 2022 (Java + Selenium + TestNG + Maven + Allure) - https://github.com/SeveR-ina/rakuten-test-task
 - My Test task solution #2, jun, 2022 (Java + Selenium + TestNG + Maven + Allure) - https://github.com/SeveR-ina/friday-test-task
-- My Test task solution #3, nov, 2021 (Java + Selenium + TestNG + Maven) - https://github.com/SeveR-ina/TestTaskAutomationPractice
 - My Test task solution #4, nov, 2021 (Java + Selenium + TestNG + Maven) - https://github.com/SeveR-ina/Mirapolis
 - My old 2016-2018 Web Selenium tests - https://github.com/SeveR-ina/WebSeleniumTests
 
