@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeveR-ina, my name is Regina, I'm 30. I live in Berlin, Germany. 
+- 👋 Hi, I’m @SeveR-ina, my name is Regina, I'm 31. I live in Berlin, Germany. 
 - 👀 I’m interested in reading books, knitting, travelling, studying a computer science.
 - 📫 How to reach me - tg: reg7na https://t.me/reg7na
 - My linkdin acc: https://www.linkedin.com/in/reg7na/
