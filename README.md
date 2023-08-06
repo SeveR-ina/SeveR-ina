@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeveR-ina, my name is Regina, I'm 31. I live in Berlin, Germany. 
-- 📫 How to reach out to me - tg: reg7na https://t.me/reg7na
-- My linkdin acc: https://www.linkedin.com/in/reg7na/
+- 📫 [How to reach out to me - tg: reg7na](https://t.me/reg7na)
+- [My linkdin acc:](https://www.linkedin.com/in/reg7na/)
 
 MY RECENT TEST AUTOMATION:
 - [TypeScript + Cypress project](https://github.com/SeveR-ina/ts_luma_store)
