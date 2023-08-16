@@ -2,6 +2,7 @@
 - 📫 [How to reach out to me - tg: reg7na](https://t.me/reg7na)
 - [My linkdin acc: @reg7na](https://www.linkedin.com/in/reg7na/)
 - [My CV, link to Google Drive](https://drive.google.com/file/d/1I5dNt8rCSDzxDpa5Mb6dz465Cbm32GU1/view?usp=sharing)
+- [LeetCode](https://leetcode.com/SeveR-ina/)
 
 MY RECENT TEST AUTOMATION:
 - [TypeScript + Cypress project](https://github.com/SeveR-ina/ts_luma_store)
