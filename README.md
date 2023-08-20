@@ -1,5 +1,5 @@
 MAIN INFORMATION:
-- 👋 I'm Regina from Berlin, Germany
+- 👋 I'm QA Automation Specialist
 - 🗣️[Telegram](https://t.me/reg7na)
 - ✉️ mailto:regi.chepk777@gmail.com
 - 👩‍💻[LinkedIn](https://www.linkedin.com/in/reg7na/)
