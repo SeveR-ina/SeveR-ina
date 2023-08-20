@@ -10,14 +10,13 @@ RECENT TEST AUTOMATION:
 - [TypeScript + Cypress project](https://github.com/SeveR-ina/ts_luma_store)
 - [Python API tests using pytest + allure + docker](https://github.com/SeveR-ina/restful_booker_python_api_tests)
 - [Postman API Automation tests](https://github.com/SeveR-ina/api_postman_restful_booker/tree/main)
-- [Dart / Flutter sign-in example](https://github.com/SeveR-ina/flutter_auto_test_example_1)
 - [Task solution #1, jun, 2022 (Java + Selenium + TestNG + Maven + Allure)](https://github.com/SeveR-ina/rakuten-test-task)
 - [Task solution #2, jun, 2022 (Java + Selenium + TestNG + Maven + Allure)](https://github.com/SeveR-ina/friday-test-task)
 
 STATISTICS:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeveR-ina&layout=compact&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeveR-ina&show_icons=true&hide=stars,contribs&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeveR-ina&show_icons=true&hide=contribs&theme=transparent)
 
 RECENT FAVORITE PROJECTS:
 
