@@ -1,5 +1,5 @@
 MAIN INFORMATION:
-- 👋 Hi, I’m @SeveR-ina, my name is Regina, I'm 31. I live in Berlin, Germany. 
+- 👋 I'm Regina from Berlin, Germany
 - 🗣️[Telegram](https://t.me/reg7na)
 - ✉️ mailto:regi.chepk777@gmail.com
 - 👩‍💻[LinkedIn](https://www.linkedin.com/in/reg7na/)
