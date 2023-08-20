@@ -14,7 +14,7 @@ RECENT TEST AUTOMATION:
 - [Task solution #1, jun, 2022 (Java + Selenium + TestNG + Maven + Allure)](https://github.com/SeveR-ina/rakuten-test-task)
 - [Task solution #2, jun, 2022 (Java + Selenium + TestNG + Maven + Allure)](https://github.com/SeveR-ina/friday-test-task)
 
-Statistics:
+STATISTICS:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeveR-ina&layout=compact&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeveR-ina&show_icons=true&hide=stars,contribs&theme=transparent)
