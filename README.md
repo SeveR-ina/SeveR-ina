@@ -3,7 +3,7 @@ MAIN INFORMATION:
 - 🗣️[Telegram](https://t.me/reg7na)
 - ✉️ mailto:regi.chepk777@gmail.com
 - 👩‍💻[LinkedIn](https://www.linkedin.com/in/reg7na/)
-- 📜[CV 2023](https://drive.google.com/file/d/1I5dNt8rCSDzxDpa5Mb6dz465Cbm32GU1/view?usp=sharing)
+- 📜[CV 2023](https://drive.google.com/file/d/1I7e350FpKvVUdf2BR2Pot1K4EFsUvKKX/view?usp=sharing)
 - 🔣 [LeetCode profile](https://leetcode.com/SeveR-ina/) and [Algorithm solutions](https://github.com/SeveR-ina/algorithms)
 
 RECENT TEST AUTOMATION:
