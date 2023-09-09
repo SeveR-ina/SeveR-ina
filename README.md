@@ -7,6 +7,7 @@ MAIN INFORMATION:
 - 🔣 [LeetCode profile](https://leetcode.com/SeveR-ina/) and [Algorithm solutions](https://github.com/SeveR-ina/algorithms)
 
 RECENT TEST AUTOMATION:
+- [TypeScript API tests + Playwright](https://github.com/SeveR-ina/playwright_example_api_tests)
 - [TypeScript + Cypress project](https://github.com/SeveR-ina/ts_luma_store)
 - [Python API tests using pytest + allure + docker](https://github.com/SeveR-ina/restful_booker_python_api_tests)
 - [Postman API Automation tests](https://github.com/SeveR-ina/api_postman_restful_booker/tree/main)
