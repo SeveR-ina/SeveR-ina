@@ -6,7 +6,28 @@
 - 📜[CV 2023](https://drive.google.com/file/d/1I7e350FpKvVUdf2BR2Pot1K4EFsUvKKX/view?usp=sharing)
 - 📄[Recommendation letters](https://drive.google.com/file/d/17keY2AQ-B4bGNjW-IFbrofdL77HV_5ge/view?usp=sharing)
 - 🔣 [LeetCode profile](https://leetcode.com/SeveR-ina/) and [Algorithm solutions](https://github.com/SeveR-ina/algorithms)
+<details>
+<summary> More about me </summary>
+  </br>
+Technical Skills:
+  
+- Top used programming language is Java and learning: TypeScript, Python, JavaScript;
+- Automation testing: Selenium, Appium, jUnit, TestNG, Cucumber, Postman and learning: Cypress.io, pytest, Playwright;
+- Version control: Git, GitHub, GitLab;
+- Build tools: Maven, Gradle;
+- Databases: SQL, NoSQL;
+- CI/CD: Jenkins, TeamCity, GitHub Actions;
+- Other: Swagger, Docker;
 
+Main achievements:
+- creating test automation frameworks and test documentation from scratch;
+- working with worldwide teams in English;
+- participating in big and small IT companies for 9 years.
+
+Languages:
+- English (Fluent, B2->C1)
+- German (Proficient - A2)
+</details>
 <hr>
 
 ## Recent test automation:
