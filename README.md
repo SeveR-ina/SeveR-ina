@@ -8,6 +8,7 @@
 - 🔣 [LeetCode profile](https://leetcode.com/SeveR-ina/) and [Algorithm solutions](https://github.com/SeveR-ina/algorithms)
 
 <hr>
+
 ## Recent test automation:
 
 API testing, 2023: 
