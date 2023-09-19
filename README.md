@@ -44,8 +44,8 @@ UI testing, 2023:
 - [TypeScript + Cypress project](https://github.com/SeveR-ina/ts_luma_store)
 
 UI testing, 2022:
-- [№1 Java + Selenium + TestNG + Maven + Allure)](https://github.com/SeveR-ina/rakuten-test-task)
-- [№2 Java + Selenium + TestNG + Maven + Allure)](https://github.com/SeveR-ina/friday-test-task)
+- [№1 Java + Selenium + TestNG + Maven + Allure](https://github.com/SeveR-ina/rakuten-test-task)
+- [№2 Java + Selenium + TestNG + Maven + Allure](https://github.com/SeveR-ina/friday-test-task)
 
   <br>
   
