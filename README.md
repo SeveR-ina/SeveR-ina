@@ -9,7 +9,8 @@
 - 🔣 [LeetCode profile](https://leetcode.com/SeveR-ina/) & [Codewars profile](https://www.codewars.com/users/SeveR-ina) & [Algoritms repo](https://github.com/SeveR-ina/algorithms)
 <details>
 <summary> More about me </summary>
-  <br>
+  
+<br>
 Technical Skills:
 
 - Top used programming language is Java and learning: TypeScript, Python, JavaScript;
@@ -20,21 +21,29 @@ Technical Skills:
 - CI/CD: Jenkins, TeamCity, GitHub Actions;
 - Other: Swagger, Docker;
 
+<br>
+Leetcode and Codewars stats:<br />
+<br />
+
  ![image](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FSeveR-ina&logo=leetcode&logoColor=yellow) 
  
  ![image](https://www.codewars.com/users/SeveR-ina/badges/small) 
 
+<br>
 Main achievements:
+
 - creating test automation frameworks and test documentation from scratch;
 - working with worldwide teams in English;
 - participating in big and small IT companies for 9 years.
 
+<br>
 Languages:
+
 - English (Fluent, B2->C1)
 - German (Proficient - A2)
 </details>
   
-  <br>
+<br>
   
 ## Recent test automation:
   <br>
