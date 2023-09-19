@@ -11,7 +11,7 @@
 <summary> More about me </summary>
   <br>
 Technical Skills:
-  
+
 - Top used programming language is Java and learning: TypeScript, Python, JavaScript;
 - Automation testing: Selenium, Appium, jUnit, TestNG, Cucumber, Postman and learning: Cypress.io, pytest, Playwright;
 - Version control: Git, GitHub, GitLab;
@@ -19,6 +19,10 @@ Technical Skills:
 - Databases: SQL, NoSQL;
 - CI/CD: Jenkins, TeamCity, GitHub Actions;
 - Other: Swagger, Docker;
+
+ ![image](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FSeveR-ina&logo=leetcode&logoColor=yellow) 
+ 
+ ![image](https://www.codewars.com/users/SeveR-ina/badges/small) 
 
 Main achievements:
 - creating test automation frameworks and test documentation from scratch;
@@ -48,7 +52,7 @@ UI testing, 2022:
 - [№2 Java + Selenium + TestNG + Maven + Allure](https://github.com/SeveR-ina/friday-test-task)
 
   <br>
-  
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=SeveR-ina" alt="SeveR-ina" /> </p>
   
 
