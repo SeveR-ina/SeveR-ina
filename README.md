@@ -1,6 +1,7 @@
 ## About me:
 
 - 👋 I'm a QA Automation Specialist
+- 🌐[My website](https://reginaonline.de/)
 - 🗣️[Telegram](https://t.me/reg7na)
 - ✉️ mailto:regi.chepk777@gmail.com
 - 👩‍💻[LinkedIn](https://www.linkedin.com/in/reg7na/)
