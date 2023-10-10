@@ -24,7 +24,7 @@ Technical Skills:
 
 <br>
 Leetcode and Codewars stats:<br />
-<br />
+<br/>
 
  ![image](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FSeveR-ina&logo=leetcode&logoColor=yellow) 
  
@@ -47,7 +47,7 @@ Languages:
 <br>
   
 ## Recent test automation:
-  <br>
+<br>
   
 API testing, 2023: 
 - [TypeScript API tests + Playwright](https://github.com/SeveR-ina/playwright_example_api_tests)
@@ -60,10 +60,6 @@ UI testing, 2023:
 UI testing, 2022:
 - [№1 Java + Selenium + TestNG + Maven + Allure](https://github.com/SeveR-ina/rakuten-test-task)
 - [№2 Java + Selenium + TestNG + Maven + Allure](https://github.com/SeveR-ina/friday-test-task)
-
-  <br>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SeveR-ina" alt="SeveR-ina" /> </p>
   
 
 
