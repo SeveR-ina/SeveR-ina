@@ -48,6 +48,9 @@ Languages:
   
 ## Recent test automation:
 <br>
+
+API + UI testing, 2023:
+- [Python + pytest + Playwright](https://github.com/SeveR-ina/gist_project)
   
 API testing, 2023: 
 - [TypeScript API tests + Playwright](https://github.com/SeveR-ina/playwright_example_api_tests)
