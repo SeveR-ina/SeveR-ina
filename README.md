@@ -8,9 +8,9 @@
 - 📜[CV 2023](https://drive.google.com/file/d/1I7e350FpKvVUdf2BR2Pot1K4EFsUvKKX/view?usp=sharing)
 - 📄[Recommendation letters](https://drive.google.com/file/d/17keY2AQ-B4bGNjW-IFbrofdL77HV_5ge/view?usp=sharing)
 - 🔣 [LeetCode profile](https://leetcode.com/SeveR-ina/) & [Codewars profile](https://www.codewars.com/users/SeveR-ina) & [Algoritms repo](https://github.com/SeveR-ina/algorithms)
+
 <details>
 <summary> More about me </summary>
-  
 <br>
 Technical Skills:
 
@@ -63,6 +63,6 @@ UI testing, 2023:
 UI testing, 2022:
 - [№1 Java + Selenium + TestNG + Maven + Allure](https://github.com/SeveR-ina/rakuten-test-task)
 - [№2 Java + Selenium + TestNG + Maven + Allure](https://github.com/SeveR-ina/friday-test-task)
-  
+<br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeveR-ina&layout=compact&langs_count=4&theme=transparent)
