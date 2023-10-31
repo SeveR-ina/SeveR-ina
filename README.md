@@ -23,14 +23,6 @@ Technical Skills:
 - Other: Swagger, Docker;
 
 <br>
-Leetcode and Codewars stats:<br />
-<br/>
-
- ![image](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FSeveR-ina&logo=leetcode&logoColor=yellow) 
- 
- ![image](https://www.codewars.com/users/SeveR-ina/badges/small) 
-
-<br>
 Main achievements:
 
 - creating test automation frameworks and test documentation from scratch;
@@ -65,4 +57,15 @@ UI testing, 2022:
 - [№2 Java + Selenium + TestNG + Maven + Allure](https://github.com/SeveR-ina/friday-test-task)
 <br>
 
+## Stats:
+ ![image](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FSeveR-ina&logo=leetcode&logoColor=yellow) 
+ 
+ ![image](https://www.codewars.com/users/SeveR-ina/badges/small) 
+
+<details>
+<summary> My programming languages </summary>
+<br>
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeveR-ina&layout=compact&langs_count=4&theme=transparent)
+
+</details>
