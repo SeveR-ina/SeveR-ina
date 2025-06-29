@@ -61,8 +61,6 @@ UI testing, 2022:
 <br>
 
 ## Stats:
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=SeveR-ina&theme=github-dark&border=no-border)
- 
 ![image](https://www.codewars.com/users/SeveR-ina/badges/small) 
 
 <details>
