@@ -41,6 +41,9 @@ Languages:
 ## Recent test automation:
 <br>
 
+API + UI testing, 2023-2025:
+- [Typescript + Playwright + Allure Report/TestOps - Check more details on LinkedIn](https://www.linkedin.com/in/reg7na/details/experience/)
+
 API + UI testing, 2023:
 - [Python + pytest + Playwright](https://github.com/SeveR-ina/gist_project)
   
@@ -58,9 +61,9 @@ UI testing, 2022:
 <br>
 
 ## Stats:
- ![image](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FSeveR-ina&logo=leetcode&logoColor=yellow) 
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=SeveR-ina&theme=github-dark&border=no-border)
  
- ![image](https://www.codewars.com/users/SeveR-ina/badges/small) 
+![image](https://www.codewars.com/users/SeveR-ina/badges/small) 
 
 <details>
 <summary> My programming languages </summary>
