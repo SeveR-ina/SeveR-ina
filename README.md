@@ -1,6 +1,6 @@
 ## About me:
 
-- 👋 I'm a QA Automation Specialist
+- 👋 I'm a Senior QA Automation Specialist
 - 🌐[MY WEBSITE: reginaonline.de](https://reginaonline.de/)
 - 🗣️[Telegram](https://t.me/reg7na)
 - ✉️ mailto:regi.chepk777@gmail.com
@@ -14,20 +14,22 @@
 <br>
 Technical Skills:
 
-- Top used programming language is Java and learning: TypeScript, Python, JavaScript;
-- Automation testing: Selenium, Appium, jUnit, TestNG, Cucumber, Postman and learning: Cypress.io, pytest, Playwright;
-- Version control: Git, GitHub, GitLab;
+- Top used programming languages are Typescript and Java, also learning: Python;
+- Automation testing: Playwright, Selenium, jUnit, Postman and learning: Cypress.io, pytest;
+- Version control: Gitlab, GitHub;
 - Build tools: Maven, Gradle;
 - Databases: SQL, NoSQL;
-- CI/CD: Jenkins, TeamCity, GitHub Actions;
+- CI/CD: Gitlab pipelines, Jenkins, TeamCity, GitHub Actions;
 - Other: Swagger, Docker;
 
 <br>
 Main achievements:
 
 - creating test automation frameworks and test documentation from scratch;
-- working with worldwide teams in English;
-- participating in big and small IT companies for 9 years.
+- connecting test pipelines in Gitlab with Teams notifications through Power Automate: notifications about test results, MR statuses; etc;
+- building test reporting from scratch using Allure Reports and Allure TestOps and connecting them with Gitlab CI/CD;
+- working with worldwide teams in English and a little bit Deutsch;
+- participating in big and small IT companies for 10 years.
 
 <br>
 Languages:
