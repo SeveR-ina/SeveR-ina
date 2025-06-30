@@ -35,7 +35,7 @@ Main achievements:
 Languages:
 
 - English (Fluent, B2->C1)
-- German (Proficient - A2)
+- German (B1 Telc Certificate, currently learning B2)
 </details>
   
 <br>
