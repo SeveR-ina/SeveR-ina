@@ -5,6 +5,7 @@
 - 🗣️[Telegram](https://t.me/reg7na)
 - ✉️ mailto:regi.chepk777@gmail.com
 - 👩‍💻[LinkedIn](https://www.linkedin.com/in/reg7na/)
+- 💼[XING](https://www.xing.com/profile/Regina_Chepkunova)
 - 📜[CV 2025](https://drive.google.com/file/d/1qdpelRkCggD3zeVz7V8_c7lGsMp0l3GV/view?usp=sharing)
 - 📄[Recommendation letters](https://drive.google.com/file/d/1iu-urBmQdyPz8ofxUeYCbWDXqKrPutSs/view?usp=sharing)
 - 🔣 [LeetCode profile](https://leetcode.com/SeveR-ina/) & [Codewars profile](https://www.codewars.com/users/SeveR-ina) & [Algoritms repo](https://github.com/SeveR-ina/algorithms)
