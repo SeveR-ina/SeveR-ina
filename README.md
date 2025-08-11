@@ -1,12 +1,12 @@
 ## About me:
 
-- 👋 I'm a Senior QA Automation Specialist
+- 👋 I'm a Senior QA Engineer
 - 🌐[MY WEBSITE: reginaonline.de](https://reginaonline.de/)
 - 🗣️[Telegram](https://t.me/reg7na)
 - ✉️ mailto:regi.chepk777@gmail.com
 - 👩‍💻[LinkedIn](https://www.linkedin.com/in/reg7na/)
-- 📜[CV 2023](https://drive.google.com/file/d/16yC3pqIpBytKBEi0OXHP3-BWri_ZSzEY/view?usp=share_link)
-- 📄[Recommendation letters](https://drive.google.com/file/d/17keY2AQ-B4bGNjW-IFbrofdL77HV_5ge/view?usp=sharing)
+- 📜[CV 2025](https://drive.google.com/file/d/1qdpelRkCggD3zeVz7V8_c7lGsMp0l3GV/view?usp=sharing)
+- 📄[Recommendation letters](https://drive.google.com/file/d/1iu-urBmQdyPz8ofxUeYCbWDXqKrPutSs/view?usp=sharing)
 - 🔣 [LeetCode profile](https://leetcode.com/SeveR-ina/) & [Codewars profile](https://www.codewars.com/users/SeveR-ina) & [Algoritms repo](https://github.com/SeveR-ina/algorithms)
 
 <details>
@@ -25,16 +25,15 @@ Technical Skills:
 <br>
 Main achievements:
 
-- creating test automation frameworks and test documentation from scratch;
-- connecting test pipelines in Gitlab with Teams notifications through Power Automate: notifications about test results, MR statuses; etc;
-- building test reporting from scratch using Allure Reports and Allure TestOps and connecting them with Gitlab CI/CD;
-- working with worldwide teams in English and a little bit Deutsch;
-- participating in big and small IT companies for 10 years.
+- Built test frameworks from scratch for multiple projects
+- Created and optimized QA processes, including automation, reporting, and triage
+- Led QA for a new autonomous pickup store launch
+- Worked with 3 international teams in English
 
 <br>
 Languages:
 
-- English (Fluent, B2->C1)
+- English (B2)
 - German (B1 Telc Certificate, currently learning B2)
 </details>
   
