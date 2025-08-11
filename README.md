@@ -1,6 +1,6 @@
 ## About me:
 
-- 👋 I'm a Senior QA Engineer
+- 👋 I'm a Senior QA Engineer from Berlin
 - 🌐[MY WEBSITE: reginaonline.de](https://reginaonline.de/)
 - 🗣️[Telegram](https://t.me/reg7na)
 - ✉️ mailto:regi.chepk777@gmail.com
