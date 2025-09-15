@@ -43,7 +43,7 @@ Languages:
 ## Recent test automation:
 <br>
 
-API + UI testing, 2023-2025:
+API + UI testing, 2025:
 - [Typescript and Playwright tests for reginaonline.de](https://github.com/SeveR-ina/regina_online_tests)
 - [Postman API collection for reginaonline.de](https://github.com/SeveR-ina/postman-testing)
 - [Typescript + Playwright + Allure Report/TestOps - Check more details on LinkedIn](https://www.linkedin.com/in/reg7na/details/experience/)
